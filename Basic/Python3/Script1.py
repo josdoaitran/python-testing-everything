@@ -2,9 +2,7 @@
 # -*- coding: UTF-8 -*-
 """
 wc - word count
-~~~~~~~~~~~~~~~
-Read a file given in the command-line argument and print the number of
-lines, words and characters - similar to UNIX's wc utility.
+
 
 Usage: ./wc.py <filename>
 """
