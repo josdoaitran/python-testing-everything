@@ -22,7 +22,7 @@ The numbers obtained should be printed in a comma-separated sequence on a single
 Hints: 
 Consider use range(#begin, #end) method
 
-(Answer)[https://github.com/josdoaitran/PythonForTester/blob/master/BasicQuestions/Q1.py]
+[Answer](https://github.com/josdoaitran/PythonForTester/blob/master/BasicQuestions/Q1.py)
 ## Question 2
 
 ## Question 3
