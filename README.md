@@ -63,6 +63,8 @@ Hints:
 In case of input data being supplied to the question, it should be assumed to be a console input.
 tuple() method can convert list to tuple
 
+[Answer](https://github.com/josdoaitran/PythonForTester/blob/master/BasicQuestions/Q4.py)
+
 # Basic for Python
 
 we write Script to Read a file given in the command-line argument and print the number of
