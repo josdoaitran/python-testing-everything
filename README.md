@@ -69,3 +69,8 @@ tuple() method can convert list to tuple
 
 we write Script to Read a file given in the command-line argument and print the number of
 lines, words and characters - similar to UNIX's wc utility.
+
+# References:
+
+https://github.com/zhiwehu/Python-programming-exercises/blob/master/100%2B%20Python%20challenging%20programming%20exercises.txt
+
