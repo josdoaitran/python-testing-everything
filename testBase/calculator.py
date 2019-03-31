@@ -67,4 +67,3 @@ while running:
         running = False
     else:
         continue
-
