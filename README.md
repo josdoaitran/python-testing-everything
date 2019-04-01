@@ -65,6 +65,14 @@ tuple() method can convert list to tuple
 
 [Answer](https://github.com/josdoaitran/PythonForTester/blob/master/BasicQuestions/Q4.py)
 
+## Question 5:
+Write a program which check a number is prime or not
+
+
+## Question 6:
+Write a program which print all of couple sequence prime.
+
+
 # Basic for Python
 
 we write Script to Read a file given in the command-line argument and print the number of
