@@ -1,5 +1,6 @@
-./venv/*
-./.idea/*
-./testBase/.idea/*
+venv/*
+
+testBase/.idea/*
 .idea/*
 
+testBase/venv/include/
