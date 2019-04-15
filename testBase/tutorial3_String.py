@@ -6,3 +6,9 @@ print (first_string[0:9])
 
 # To print all characters
 print (first_string[0:])
+
+# To print the character with position 7th => w
+print (first_string[7])
+
+# To print the character with position -2th => r
+print (first_string[-2])
