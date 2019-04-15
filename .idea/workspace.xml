@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a7c5125f-1308-4056-8cac-135b5afe3c10" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testBase/tutorial1.py" beforeDir="false" afterPath="$PROJECT_DIR$/testBase/tutorial1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,29 +22,29 @@
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.7" value="2" />
           <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="1" />
           <entry key="md" value="1" />
-          <entry key="py" value="6" />
+          <entry key="py" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Git file" value="1" />
           <entry key="Markdown" value="1" />
-          <entry key="Python" value="6" />
+          <entry key="Python" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="md" value="144" />
-          <entry key="py" value="61" />
+          <entry key="py" value="74" />
           <entry key="txt" value="17" />
         </counts>
       </usages-collector>
@@ -51,7 +52,7 @@
         <counts>
           <entry key="Markdown" value="144" />
           <entry key="PLAIN_TEXT" value="17" />
-          <entry key="Python" value="61" />
+          <entry key="Python" value="74" />
         </counts>
       </usages-collector>
     </session>
@@ -61,13 +62,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="64">
               <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BasicQuestions/Q1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="144">
@@ -77,9 +78,27 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testBase/tutorial_simple_function.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/testBase/tutorial1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BasicQuestions/Q5.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="96">
               <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
             </state>
           </provider>
@@ -98,7 +117,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BasicQuestions/Q2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="48">
               <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
             </state>
           </provider>
@@ -113,7 +132,7 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor>
+              <first_editor relative-caret-position="1184">
                 <caret line="74" selection-start-line="74" selection-end-line="74" />
               </first_editor>
               <second_editor />
@@ -140,6 +159,8 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/BasicQuestions/Q5.py" />
         <option value="$PROJECT_DIR$/BasicQuestions/Q2.py" />
+        <option value="$PROJECT_DIR$/testBase/tutorial_simple_function.py" />
+        <option value="$PROJECT_DIR$/testBase/tutorial1.py" />
       </list>
     </option>
   </component>
@@ -178,16 +199,6 @@
             <path>
               <item name="PythonForTester" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonForTester" type="462c0819:PsiDirectoryNode" />
-              <item name="BasicQuestions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonForTester" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonForTester" type="462c0819:PsiDirectoryNode" />
-              <item name="PythonWithDataBase" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonForTester" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonForTester" type="462c0819:PsiDirectoryNode" />
               <item name="testBase" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -219,7 +230,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Q1">
+  <component name="RunManager" selected="Python.tutorial_simple_function">
     <configuration name="Q1" type="PythonConfigurationType" factoryName="Python">
       <module name="PythonForTester" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -283,6 +294,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="tutorial1" type="PythonConfigurationType" factoryName="Python">
+      <module name="PythonForTester" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testBase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testBase/tutorial1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="tutorial_simple_function" type="PythonConfigurationType" factoryName="Python">
       <module name="PythonForTester" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -309,6 +341,7 @@
       <item itemvalue="Python.Q2" />
       <item itemvalue="Python.Q1" />
       <item itemvalue="Python.tutorial_simple_function" />
+      <item itemvalue="Python.tutorial1" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -333,20 +366,20 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="724" extended-state="6" />
+    <frame x="0" y="24" width="1280" height="723" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15965052" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17474186" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.28947368" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28684628" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.31329113" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.28843105" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -364,14 +397,14 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="64">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BasicQuestions/Q5.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="96">
           <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
         </state>
       </provider>
@@ -384,7 +417,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/BasicQuestions/Q2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="48">
           <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
         </state>
       </provider>
@@ -395,7 +428,7 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor>
+          <first_editor relative-caret-position="1184">
             <caret line="74" selection-start-line="74" selection-end-line="74" />
           </first_editor>
           <second_editor />
@@ -406,6 +439,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testBase/tutorial_simple_function.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testBase/tutorial1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>

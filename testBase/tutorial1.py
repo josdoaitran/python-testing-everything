@@ -1,6 +1,6 @@
-name = input(“Please in put your name: “)
+name = input("Please in put your name: ")
 
 # code for print out the name 
 
-print(“Hello ” + name)
+print("Hello " + name)
 
