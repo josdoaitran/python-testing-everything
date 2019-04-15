@@ -12,3 +12,10 @@ print (first_string[7])
 
 # To print the character with position -2th => r
 print (first_string[-2])
+
+########### Find ###########
+
+course = "Python for beginners"
+
+print(course.find('beginners'))
+print(course.find('beginner'))
