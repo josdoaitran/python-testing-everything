@@ -18,4 +18,4 @@ dictionary_tkcheck = {
 
 dictionary_tkcheck['age'] = 24
 
-print(dictionary_tkcheck) # {'nationality': 'Brazilian', 'age': 24, 'nickname': 'Tk', 'name': 'Leandro'}
+print(dictionary_tkcheck) # {'name': 'David', 'nickname': 'Tk', 'nationality': 'Vietnamese', 'age': 24}
