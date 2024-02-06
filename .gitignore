@@ -6,3 +6,4 @@ testBase/.idea/*
 .idea/PythonForTester.iml
 .idea/vcs.xml
 testBase/venv/include/
+.idea
