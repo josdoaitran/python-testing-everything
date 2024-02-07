@@ -1,9 +1,25 @@
 # PythonForTester
 - Here is the repository to guide the lessons from basic level to advanced level as Python For Tester/QA/QC.
 
-# Overview
+# Setup local environment - Python Installation
+- Install Python
+https://www.python.org/downloads/
+You should select the proper installation version for your operation types (Windows, MacOSX, Linux)
+- How to configure multiple Python versions in your local environment.
+#TBD
+https://realpython.com/intro-to-pyenv/
 
-Check whether python was installed on your computer or NOT.
+- Configure Python Virtual environment in your workspace
+On all my tutorials, I suggest you follow my steps to set up the virtual environment instead of using the base python environment.
+
+```
+python3 -m pip install --user virtualenv
+python3 -m venv env
+source env/bin/activate
+python3 -m pip install -r requirements.txt
+```
+
+- Check whether python was installed on your computer or NOT.
 ```
 $ python --version
 Python 2.7.12
