@@ -46,9 +46,7 @@ python -m pytest -h for command line help
 
 It is also possible to run pytest directly with the "pytest" or "py.test" command, instead of using the longer "python -m pytest" module form. However, the shorter command does not append the current directory path to PYTHONPATH.
 
-
 # Basic Questions
-
 ## Question 1
 
 Write a program which will find all such numbers which are divisible by 7 but are not a multiple of 5,

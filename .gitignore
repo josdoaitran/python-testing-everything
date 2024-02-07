@@ -1,11 +1,11 @@
 venv/*
 
-test-base/.idea/*
+test_base/.idea/*
 .idea/*
 .idea/workspace.xml
 .idea/PythonForTester.iml
 .idea/vcs.xml
-test-base/venv/include/
+test_base/venv/include/
 .idea
 env/*
 */venv/*
