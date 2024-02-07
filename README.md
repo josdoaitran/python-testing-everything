@@ -1,5 +1,5 @@
 # PythonForTester
-PythonForTester
+- Here is the repository to guide the lessons from basic level to advanced level as Python For Tester/QA/QC.
 
 # Overview
 
