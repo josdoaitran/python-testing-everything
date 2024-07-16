@@ -11,3 +11,5 @@ env/*
 */venv/*
 */venv
 venv
+test_example_send_email_slack_fw/tests/test_summary.txt
+python_testing4everyone_tutorial/logs/
