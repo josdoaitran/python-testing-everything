@@ -1,5 +1,5 @@
 import unittest
-from python_testing4everyone_tutorial.apps.example_method.calculate_net_price import NetPrice
+from python_unittest_tutorial.apps.example_method.calculate_net_price import NetPrice
 
 class TestCasesCalculateNetPrice(unittest.TestCase):
 

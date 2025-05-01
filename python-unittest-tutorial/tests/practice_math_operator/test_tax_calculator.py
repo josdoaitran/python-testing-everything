@@ -1,5 +1,5 @@
 import unittest
-from python_testing4everyone_tutorial.apps.practice_math_operator.tax_calculator import TaxCalculator
+from python_unittest_tutorial.apps.practice_math_operator.tax_calculator import TaxCalculator
 class TestTaxCalculator(unittest.TestCase):
 
     def test_tax_calculation(self):

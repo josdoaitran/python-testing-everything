@@ -1,0 +1,122 @@
+[
+    {
+        "first_name": "Nicholas",
+        "last_name": "Smith",
+        "phone": "(230) 751-1184",
+        "address": "905 Cedar St, Bayview, USA"
+    },
+    {
+        "first_name": "Daniel",
+        "last_name": "Davis",
+        "phone": "(521) 829-9317",
+        "address": "367 Walnut St, Anytown, USA"
+    },
+    {
+        "first_name": "Joshua",
+        "last_name": "Johnson",
+        "phone": "(731) 959-5641",
+        "address": "618 Elm St, Woodville, USA"
+    },
+    {
+        "first_name": "Melissa",
+        "last_name": "Robinson",
+        "phone": "(446) 539-6883",
+        "address": "558 Pine St, Valleyview, USA"
+    },
+    {
+        "first_name": "Ashley",
+        "last_name": "Taylor",
+        "phone": "(761) 169-1177",
+        "address": "914 Cedar St, Glendale, USA"
+    },
+    {
+        "first_name": "Sarah",
+        "last_name": "Martinez",
+        "phone": "(256) 694-9907",
+        "address": "183 Spruce St, Lakeside, USA"
+    },
+    {
+        "first_name": "Nicholas",
+        "last_name": "Thompson",
+        "phone": "(394) 568-1959",
+        "address": "554 Elm St, Hilltop, USA"
+    },
+    {
+        "first_name": "Matthew",
+        "last_name": "Smith",
+        "phone": "(887) 497-3397",
+        "address": "144 Ash St, Glendale, USA"
+    },
+    {
+        "first_name": "Jessica",
+        "last_name": "Anderson",
+        "phone": "(405) 344-2754",
+        "address": "749 Ash St, Cliffside, USA"
+    },
+    {
+        "first_name": "Kimberly",
+        "last_name": "Clark",
+        "phone": "(770) 597-3105",
+        "address": "333 Main St, Brookside, USA"
+    },
+    {
+        "first_name": "Joshua",
+        "last_name": "Harris",
+        "phone": "(154) 626-5788",
+        "address": "779 Oak St, Parkville, USA"
+    },
+    {
+        "first_name": "Matthew",
+        "last_name": "Brown",
+        "phone": "(534) 709-4161",
+        "address": "222 Spruce St, Parkville, USA"
+    },
+    {
+        "first_name": "Matthew",
+        "last_name": "Johnson",
+        "phone": "(793) 324-2353",
+        "address": "165 Main St, Parkville, USA"
+    },
+    {
+        "first_name": "Kimberly",
+        "last_name": "Thompson",
+        "phone": "(893) 980-5884",
+        "address": "271 Oak St, Brookside, USA"
+    },
+    {
+        "first_name": "Emily",
+        "last_name": "Garcia",
+        "phone": "(392) 241-3032",
+        "address": "202 Chestnut St, Parkland, USA"
+    },
+    {
+        "first_name": "Jessica",
+        "last_name": "Anderson",
+        "phone": "(392) 442-5175",
+        "address": "807 Spruce St, Valleyview, USA"
+    },
+    {
+        "first_name": "Christopher",
+        "last_name": "Robinson",
+        "phone": "(608) 742-8711",
+        "address": "793 Elm St, Anytown, USA"
+    },
+    {
+        "first_name": "Sarah",
+        "last_name": "Brown",
+        "phone": "(316) 406-7263",
+        "address": "654 Elm St, Rivertown, USA"
+    },
+    {
+        "first_name": "Amanda",
+        "last_name": "Williams",
+        "phone": "(290) 898-5610",
+        "address": "435 Maple St, Greenside, USA"
+    },
+    {
+        "first_name": "Joshua",
+        "last_name": "Miller",
+        "phone": "(438) 364-5126",
+        "address": "786 Walnut St, Brookside, USA"
+    }
+]

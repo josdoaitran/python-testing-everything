@@ -1,0 +1,2 @@
+Number of passed tests: 2
+Number of failed tests: 0
