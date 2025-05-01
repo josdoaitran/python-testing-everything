@@ -28,7 +28,8 @@ Python 3.5.2
 ```
 
 # Python Testing: pytest
-[All Note about Pytest tutorial](./basic_pytest_example/readme.md)
+- Basic Lessons [All Notes about Pytest tutorial](./basic_pytest_example/readme.md)
+- Advanced Lessons [All Notes about Advanced Pytest tutorial](./advanced-pytest-tutorial/Readme.md)
 
 # Basic for Python
 [All Note about Basic Questions and Challenges about Python - tutorial](./basic_questions/Readme.txt)
