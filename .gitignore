@@ -1,5 +1,4 @@
 venv/*
-
 test_base/.idea/*
 .idea/*
 .idea/workspace.xml
